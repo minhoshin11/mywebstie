@@ -3,9 +3,9 @@ import Link from "next/link";
 
 export default function Navbar() {
   return (
-    <nav className="w-full text-white font-medium flex justify-between px-10 py-3 bg-gray-500">
+    <nav className="w-full text-white font-medium flex justify-between  px-20 py-3 bg-gray-500">
       <div className="flex hover:text-amber-700">
-      <Link href="https://google.com" target="_blank">
+      <Link href="http://gangbuk.allthat-beauty.co.kr/" target="_blank">
   커리큘럼
 </Link>
 </div>
